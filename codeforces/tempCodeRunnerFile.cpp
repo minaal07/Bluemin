@@ -1,0 +1,3 @@
+	// ~demo(){
+	// 	cout<<"destructor"<<endl;
+	// }

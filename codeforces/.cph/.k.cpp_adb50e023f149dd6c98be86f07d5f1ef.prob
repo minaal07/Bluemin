@@ -1,0 +1,1 @@
+{"name":"Local: k","url":"d:\\DSA codes\\codeforces\\k.cpp","tests":[{"id":1706426803139,"input":"4\nminaal\nshiwangi\nminaal\nridhim","output":"OK\nOK\nminaal1\nOK"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA codes\\codeforces\\k.cpp","group":"local","local":true}

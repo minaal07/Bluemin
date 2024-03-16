@@ -1,0 +1,1 @@
+{"name":"Local: check","url":"d:\\DSA codes\\check.cpp","tests":[{"id":1684519881177,"input":"3\n5 2\n1 3 5 3 9\n2 5 11 2 4\n6 1\n-1 3 -2 0 -5 -1\n-4 0 -1 4 0 0\n3 3\n7 7 7\n9 4 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA codes\\check.cpp","group":"local","local":true}
